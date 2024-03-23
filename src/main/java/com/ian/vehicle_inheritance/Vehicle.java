@@ -5,6 +5,7 @@ package com.ian.vehicle_inheritance;
  * @author Ian Tagano
  */
 
+//abstract class, because this will be the base class 
 public abstract class Vehicle 
 {
     //private attributes that can be used for all the subclass
